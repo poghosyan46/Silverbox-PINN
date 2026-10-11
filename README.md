@@ -36,5 +36,4 @@ This repository contains the implementation of a Physics-Informed Neural Network
 
 ---
 
-## 🚀 Getting Started
 
