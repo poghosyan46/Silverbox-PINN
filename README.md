@@ -38,6 +38,3 @@ This repository contains the implementation of a Physics-Informed Neural Network
 
 ## 🚀 Getting Started
 
-### 1. Install Dependencies
-```bash
-pip install torch scipy numpy matplotlib langgraph langchain-groq
